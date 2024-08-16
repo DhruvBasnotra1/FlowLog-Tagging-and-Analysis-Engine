@@ -8,9 +8,9 @@
 /dataSources.local.xml
 *.class
 #compiled files
-/out/
-/target/
-/build/
+out/
+target/
+build/
 
 ### IntelliJ IDEA ###
 .idea
