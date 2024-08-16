@@ -1,0 +1,9 @@
+Port/Protocol Combination Counts:
+
+Port	Protocol	Count
+53	udp		1
+22	tcp		1
+21	tcp		2
+25	udp		1
+443	tcp		1
+80	tcp		1
